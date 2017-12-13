@@ -1,6 +1,6 @@
-# Raiders of the lost review
+# Raiders of the lost reviews
 
-Notebook della presentazione 'Raiders of the lost review' al Meetup di Dicembre 2017 della community Machine Learning and
+Notebook della presentazione 'Raiders of the lost reviews' al Meetup di Dicembre 2017 della community Machine Learning and
 Data Science Roma:
 https://www.meetup.com/it-IT/Machine-Learning-Data-Science-Meetup/events/245356425/
 
